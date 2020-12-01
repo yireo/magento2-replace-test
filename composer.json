@@ -1,0 +1,6 @@
+{
+  "name": "yireo/magento2-replace-test",
+  "replace": {
+    "magento/module-new-relic-reporting":"*"
+  }
+}
